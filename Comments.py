@@ -19,9 +19,8 @@ Tips:
 
 1. When these appear on the first line of a funciton, class, method
    or module they are used to document that code.
-2. Try to comment all non-trivial blocks of code 
+2. Try to comment all non-trivial functions, classes etc.
 3. Put the last three quotation marks on their own line
-
 """
 
 
